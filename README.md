@@ -11,5 +11,5 @@ options:
   --purge, -p           Purge all images
   --download-images DOWNLOAD_IMAGES, -d DOWNLOAD_IMAGES
                         Download images for count.
-  --debug               Enable some annoying debug messages.```
-  
+  --debug               Enable some annoying debug messages.
+  ```
