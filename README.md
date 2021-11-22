@@ -1,6 +1,6 @@
-# prnt.sc-scraper
+# Info
 I made this because I found another repository that barely worked, and its code was awful (not like mine is any better)
-
+**Warning: You will probably be automatically IP banned frm the website after a certain amount of requests, like I was.**
 
 # usage
 ```
